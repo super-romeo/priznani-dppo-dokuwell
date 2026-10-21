@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://priznani-dppo.dokuline.com/sitemap.xml
